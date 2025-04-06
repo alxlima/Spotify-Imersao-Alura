@@ -1,6 +1,6 @@
 <!---------- Title/ Logo -------------->
 <h1 align="center">
-  <img alt="MoveIt" title="Ignitelab" src="screen_shots/Logo-ImersaoDevAlura.png" width="220px"/>
+  <img alt="MoveIt" title="Ignitelab" src="screen_shots/Logo-ImersaoFrontEndAlura.png" width="220px"/>
 </h1>
 
 <!-- ------- Ancoras --------------->
